@@ -63,12 +63,12 @@
         "branch": "master",
         "description": null,
         "homepage": "",
-        "owner": "makerdao",
+        "owner": "velerofinance",
         "repo": "setzer-mcd",
-        "rev": "ba3cc5768d4d289ea3ddea3c9b3b77d8e931ea4b",
-        "sha256": "0mnw334yfcw1a0w806ns946fxr15hnr65an51bi4z2jzmpdgyfa2",
+        "rev": "b520b96a7db609bbf4164ca316c9380d9c3ea35c",
+        "sha256": "045yb66bjs4ijg39pvgx4sd9ryflfk75l4dlpd088xdv12dc2hlx",
         "type": "tarball",
-        "url": "https://github.com/makerdao/setzer-mcd/archive/ba3cc5768d4d289ea3ddea3c9b3b77d8e931ea4b.tar.gz",
+        "url": "https://github.com/velerofinance/setzer-mcd/archive/b520b96a7db609bbf4164ca316c9380d9c3ea35c.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     }
 }
